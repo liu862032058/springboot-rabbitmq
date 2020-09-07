@@ -15,8 +15,8 @@
     <description>Demo project for Spring Boot</description>
 
     <properties>
-        <java.version>1.8</java.version>
-    </properties>
+    <java.version>1.8</java.version>
+</properties>
 
     <dependencies>
         <!--AMQP ,高级消息队列协议：典型实现方案是RabbitMQ-->
